@@ -15,15 +15,3 @@ while num2 // 10 > 0:
     num2 = num2 // 10
 
 print(sum + (num2 % 10))
-
-#from decimal import Decimal
-
-# temp = num1[delete]
-# num1[delete] = num1[len(num1) - 1]
-# num1[len(num1) - 1] = temp
-
-# while num1 % 1 != 0:
-#     num1 = num1 * 10 
-# print(Decimal(num1))
-# print(num1)
-
